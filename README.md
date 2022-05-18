@@ -17,7 +17,7 @@
 
 
 ### Your Output lookalike this:
-![](../../Pictures/Screenshot from 2022-05-18 12-11-54.png)
+![](images/Screenshot from 2022-05-18 12-11-54.png)
 
 
 ## Get all commits in the last six months only, but you can modify it:
