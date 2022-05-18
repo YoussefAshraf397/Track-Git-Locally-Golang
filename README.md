@@ -17,7 +17,7 @@
 
 
 ### Your Output lookalike this:
-![](images/Screenshot from 2022-05-18 12-11-54.png)
+![](https://raw.githubusercontent.com/YoussefAshraf397/Track-Git-Locally-Golang/main/images/Screenshot%20from%202022-05-18%2012-11-54.png)
 
 
 ## Get all commits in the last six months only, but you can modify it:
